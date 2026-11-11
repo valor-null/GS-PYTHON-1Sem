@@ -4,7 +4,7 @@
 Pensamento Computacional e Automação em Python — Prof. Dr. Allan Roberto Molto
 1º ano de Ciência da Computação — FIAP
 
-- Link do video:
+- Link do video: https://youtu.be/XtpdVb2zlzU
  
 ## Integrantes
 
